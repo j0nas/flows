@@ -1,0 +1,16 @@
+{
+  "name": "flows",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jonas Jensen <jonas.jensen@msn.com> (https://jonas-jensen.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "array-flatten": "^2.1.1",
+    "read-multiple-files": "^2.0.0"
+  }
+}
